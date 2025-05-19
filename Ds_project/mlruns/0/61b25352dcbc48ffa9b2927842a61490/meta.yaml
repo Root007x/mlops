@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ROOT/Desktop/MLOps/Ds_project/mlruns/0/61b25352dcbc48ffa9b2927842a61490/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61b25352dcbc48ffa9b2927842a61490
+run_name: charming-flea-183
+run_uuid: 61b25352dcbc48ffa9b2927842a61490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747175531362
+status: 1
+tags: []
+user_id: ROOT
